@@ -1,5 +1,5 @@
 # eLife_paper
-Code files for eLife paper
+Code files for Nolet et al., 2020, "Nuclei determine the spatial origin of mitotic waves", eLife https://doi.org/10.7554/eLife.52868
 
 General remark: Fortran codes are used to obtain raw data of PDE simulations. Data is analyzed and visualized in Mathematica.
 
